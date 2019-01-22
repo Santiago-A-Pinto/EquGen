@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1533859983 source:/home/santiago/Desktop/Cosas varias/Generador de ecuaciones/GeneradorDeEcuaciones/Rational_Number.cpp
+	"Rational_Number.h"
+	<cmath>
+
+1532722229 /home/santiago/Desktop/Cosas varias/Generador de ecuaciones/GeneradorDeEcuaciones/Rational_Number.h
+	<string>
+
+1540337468 source:/home/santiago/Desktop/Cosas varias/Generador de ecuaciones/GeneradorDeEcuaciones/main.cpp
+	<fstream>
+	"Rational_Number.h"
+	"Linear_Expression.h"
+	"Generator.h"
+	<time.h>
+	<iostream>
+
+1540337913 source:/home/santiago/Desktop/Cosas varias/Generador de ecuaciones/GeneradorDeEcuaciones/Linear_Expression.cpp
+	"Linear_Expression.h"
+	<time.h>
+
+1533859819 /home/santiago/Desktop/Cosas varias/Generador de ecuaciones/GeneradorDeEcuaciones/Linear_Expression.h
+	"Rational_Number.h"
+
+1540337920 source:/home/santiago/Desktop/Cosas varias/Generador de ecuaciones/GeneradorDeEcuaciones/Generator.cpp
+	"Generator.h"
+	<fstream>
+	<cstring>
+	<time.h>
+
+1534547730 /home/santiago/Desktop/Cosas varias/Generador de ecuaciones/GeneradorDeEcuaciones/Generator.h
+	<vector>
+	<string>
+	"Linear_Expression.h"
+	"Rational_Number.h"
+
